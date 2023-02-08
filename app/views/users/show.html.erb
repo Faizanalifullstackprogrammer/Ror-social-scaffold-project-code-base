@@ -1,0 +1,31 @@
+<section class="user-section">
+  <div class="d-flex users-section-name">
+  
+    <h2><%= "Name: #{@user.name}" %></h2>
+    
+    <div>  
+      <%= not_current_user(@user.id, @user) %> 
+    </div>
+  
+  </div>
+  <article class="timeline">
+    <h3>Recent posts:</h3>
+    <ul class="posts">
+      <%= render @posts %>
+    </ul>
+  </article>
+</section>
+
+<div class="invite-friends">
+
+<section class="section-invitation">
+  <h2>Invitations</h2>
+  <%= my_invite(@user) %>
+</section>
+
+<section class="section-invitation">
+  <h2>My Friends</h2>
+  <%= my_friends(@user, @friends_lists) %>
+
+</section>
+</div>
