@@ -72,17 +72,13 @@ e.g ` rspec spec/models/like_spec.rb `
 
 ## Authors
 
-👤 **Divyesh Patel**
+👤 **Mian Faizan Ali Full Stack Programmer**
 
-- GitHub: [@Div685](https://github.com/Div685)
-- Twitter: [@div_685](https://twitter.com/div_685)
-- LinkedIn: [Divyesh Patel](https://www.linkedin.com/in/divyesh-daxa-patel)
+- GitHub: [@Faizanalifullstackprogrammer](https://github.com/Faizanalifullstackprogrammer)
+- Twitter: [@mianfaizanali](https://twitter.com/mianfaizanali)
+- LinkedIn: [Mianfaizanali](https://pk.linkedin.com/in/mianfaizanali)
 
-👤 **Shonibare Adewunmi**
-
-- GitHub: [@Adewunmi97](https://github.com/Adewunmi97)
-- Twitter: [@ShonibareC](https://twitter.com/ShonibareC)
-- LinkedIn: [Adewunmi Shonibare](https://www.linkedin.com/in/adewunmi-shonibare-a2a7b0200/)
+👤 
 
 ## 🤝 Contributing
 
